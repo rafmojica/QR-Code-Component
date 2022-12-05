@@ -28,6 +28,7 @@ html {
   height: 500px;
   padding: 16px;
   border-radius: 20px;
+  box-shadow: 0px 0px 20px lighten($grayish-blue, 25);
 
   figure {
     display: flex;
